@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DailyWork
+namespace DailyWork.Collections
 {
     internal class HashTableTest
     {
@@ -20,8 +20,8 @@ namespace DailyWork
             Console.WriteLine("Hashtable Data:");
             PrintAll();
 
-            ht[1] = "Bob"; 
-            ht["Two"] = 5; 
+            ht[1] = "Bob";
+            ht["Two"] = 5;
             ht[3] = "Updated";
 
             PrintAll();

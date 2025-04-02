@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections;
 
-namespace DailyWork
+namespace DailyWork.Collections
 {
     internal class QueueTest
     {
