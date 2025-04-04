@@ -25,7 +25,19 @@ namespace DailyWork
 
             //TupleTest tupleTest = new TupleTest();
 
-            LinqTest linqTest = new LinqTest();
+            //LinqTest linqTest = new LinqTest();
+
+            //StringFormattingTest stringFormattingTest = new StringFormattingTest();
+
+            //StringModificationTest stringModificationTest = new StringModificationTest();
+
+            //StringBuilderTest stringBuilderTest = new StringBuilderTest();
+
+            //DateTimeFormattingTest dateTimeFormattingTest = new DateTimeFormattingTest();
+
+            //DateTimeCalculationTest dateTimeCalculationTest = new DateTimeCalculationTest();
+
+            MathAndRegexTest mathAndRegexTest = new MathAndRegexTest();
         }
     }
 }
